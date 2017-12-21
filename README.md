@@ -1,1 +1,1 @@
-# metal-3d-cube-app
+# metal 3d cube app
